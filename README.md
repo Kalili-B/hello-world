@@ -2,5 +2,5 @@
 
 Test repository to learn github commits.
 
-Best regards
+Best regards from Germany
 Kalili-B
