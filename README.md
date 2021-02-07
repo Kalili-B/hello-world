@@ -1,2 +1,6 @@
 # hello-world
-test repository to learn github
+
+Test repository to learn github commits.
+
+Best regards from Germany
+Kalili-B
